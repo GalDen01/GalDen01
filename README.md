@@ -1,9 +1,9 @@
 Hellooo, I am Gaëtan Charpentier, or GalDen, aspiring programmer and video game nerd
 
 - 🔭 I’m currently working on nothing, as I'm trying to pass school
-- 🌱 I’m currently learning Java and Javafx.
+- 🌱 I’m currently learning Java, it's fx counterpart, C and C++.
 - 👯 I’m looking to collaborate on nothing yet.
-- 🤔 I’m looking for help with learning Java.
+- 🤔 I’m looking for help with learning more languages.
 - 💬 Ask me anything, I'll gladly answer as long as i deem it as not too personal.
 - 📫 How to reach me: By discord dms or twitter dms mainly. Here's my discord : galden.
 - 😄 Pronouns: He/Him
