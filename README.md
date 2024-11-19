@@ -1,4 +1,4 @@
-Hellooo, I am Gaëtan Charpentier, or GalDen, aspiring programmer, designer and video game nerd
+Hellooo, I am Gaëtan Charpentier, or GalDen, a French aspiring programmer, designer and video game nerd.
 
 - 🔭 I’m currently working on nothing, as I'm trying to pass school
 - 🌱 I’m currently learning Java, it's fx counterpart, C and C++, rust and also a tid bit of dart
